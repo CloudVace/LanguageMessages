@@ -1,0 +1,144 @@
+{
+	"PREFIX": "§aLytexMC §8»§r",
+	"localeCode": "de_DE",
+	"name": "Deutsch",
+	
+	"values": {
+
+	"languageapi.message.updated": "{PREFIX} §7Du hast die §bSprache§6 #0# §7ausgewählt!",
+	"player.not.exists": "{PREFIX} §cDieser Spieler exestiert nicht§7!",
+		
+	"broadcaster.message.1": "{PREFIX} §7Folge uns doch auf §bTwitter§7 unter: §e@LytexMC§r",
+	"broadcaster.message.2": "{PREFIX} §7Trete doch unseren Discord unter §ehttps://LytexMC.net/discord/ §7bei!",
+	"broadcaster.message.3": "{PREFIX} §7Es wird empfohlen mit der §eKlassischen§7-§eUI §7zu Spielen!",
+	
+	"ui.title.stats": "§eStats",
+	"ui.title.spectate": "§eSpectate",
+	"ui.title.cosmetics": "§5Cosmetics",
+	"ui.title.teleporter": "§eTeleporter",
+	
+	"ui.button.back": "§cZurück",
+	
+	"message.cantSelectYourself": "{PREFIX} §cDu kannst dich nicht selber auswählen§7!",
+	
+	"game.hasWon": "{PREFIX} §aDu hast dieses §eSpiel §agewonnen§7!",
+	"game.hasLose": "{PREFIX} §cDu hast dieses §eSpiel §cverloren§7!",
+	"game.server.isFull": "{PREFIX} §cDieser Server ist momentan voll§7!",
+	"game.server.nowSpectator": "{PREFIX} §cDu bist nun Spectator§7!",
+	"game.server.noArena": "{PREFIX} §cKeine Arena erstellt§7!",
+	"game.server.joined": "{PREFIX} #0# §ahat diesen Server betreten§7!",
+	"game.server.restart.in": "{PREFIX} §7Der server restartet in §e#0#§7 Sekunden!",
+	"game.hasStarted": "{PREFIX} §aDie Runde hat begonnen§7!",
+	"game.play.onMap": "{PREFIX} §7Es wird auf der Map §b#0#§7 gespielt!",
+	"game.server.quit": "{PREFIX} #0# §ahat den Server verlassen§7!",
+	"game.server.isRestarting": "{PREFIX} §cDer Server startet bereits neu§7!",
+	"game.server.hasStarted": "{PREFIX} §aDiese Runde hat nun begonnen§7!",
+	"game.isPrivate": "{PREFIX} §cDu bekommst in dieser Runde keine §eStats§c und §eCoins§c\n§cda dies ein §ePrivate§7-§eServer§c ist§7!",
+	
+	"no.perms": "§cDu hast keine berechtigung um dies zu tun§7!",
+	
+	"lobby.no.perms": "§cDu hast keine berechtigung um dies zu tun§7!",
+	
+	"lobby.join.tip": "§8[§a+§8] §e#0#",
+	
+	"lobby.hide.invisible": "{PREFIX} §cAlle §eSpieler§c sind nun §eunsichtbar§7!",
+	"lobby.hide.visible": "{PREFIX} §aAlle §eSpieler§a sind nun §esichtbar§7!",
+	
+	"lobby.teleporter.ui.title": "{PREFIX} §l§6Teleporter",
+	"lobby.teleporter.ui.content": "{PREFIX} §aWähle ein Spielmodus aus§7!",
+	
+	"lobby.teleporter.button.spawn": "§l§7Spawn",
+	"lobby.teleporter.button.bw": "§cBedWars",
+	"lobby.teleporter.button.cw": "§4Clan§fWars",
+	"lobby.teleporter.button.mlgrush": "§aMLGRush",
+	"lobby.teleporter.button.woolbattle": "§eWoolBattle",
+	"lobby.teleporter.button.gungame": "§bGunGame",	
+	"lobby.teleporter.button.ffa": "§eFFA§7-§eModes",
+	
+	"lobby.hide.ui.title": "{PREFIX} §l§ePlayer§7-§eHider",
+	"lobby.hide.ui.content": "{PREFIX} §cVerstecke §7oder §azeige §7alle §eSpieler§7!",
+	
+	"lobby.hide.button.show": "§aZeige alle §eSpieler",
+	"lobby.hide.button.hide": "§4Verstecke alle §eSpieler",
+	
+	"lobby.gadget.ui.title": "{PREFIX} §l§5Gadgets",
+	"lobby.ui.content.select.gadget": "{PREFIX} §eWähle ein §5Gadget§e aus§7!",
+	"lobby.gadget.ui.button.particle": "§dPartikel",
+	"lobby.gadget.ui.button.fly": "§eFly",
+	
+	"lobby.gadgets.title.particles": "{PREFIX} §ePartikel",
+	
+	"lobby.fly.ui.title": "{PREFIX} §l§eFly",
+	"lobby.ui.content.select.fly.mode": "{PREFIX} §eAktiviere den §aFlug§7-§aModus§7!",
+	"lobby.fly.ui.button.enable": "§aAktiviere §eFly",
+	"lobby.fly.ui.button.disable": "§cDeaktiviere §eFly",
+	
+	"lobby.enable.fly": "{PREFIX} §aDu hast den §eFlug§7-§eModus§a aktiviert§7!",
+	"lobby.disable.fly": "{PREFIX} §cDu hast den §eFlug§7-§eModus§c deaktiviert§7!",
+	
+	"lobby.ui.title.updates": "{PREFIX} §eUpdates",
+	"lobby.ui.content.updates": "{PREFIX}\n\n§8- §eMLGRush Release§r\n\n§8- §cClanWars§e Beta§r\n\n§8- §eNeues PrivateServer§7-§eSystem",
+	"lobby.ui.button.updates.close": "§4Schließen",
+	
+	"maintenance.ui.content": "{PREFIX}\n\n§l§cWir sind momentan in Wartungen§r§7!\n§l§cBitte versuche es später erneut§r§7!",
+	"maintenance.join.message": "{PREFIX} §cDu hast den Server während den §eWartungen§c betreten§7!",
+	"maintenance.toggle.on": "{PREFIX} §aDu hast den §emaintenance§7-§amode§a aktiviert§7!",
+	"maintenance.toggle.off": "{PREFIX} §cDu hast den §emaintenance§7-§amode§7§c deaktiviert!",
+	"maintenance.kick.reason": "{PREFIX} §cDu wurdest von den Server gekickt§7!\n§l§4Dieser Server ist in §eWartungen§r§7!",
+	
+	"clanwars.bed.destroyed": "{PREFIX} §7Das Bett von Team #0# §7wurde von§c #1#§7 zerstört!",
+	"clanwars.destroy.own.bed": "{PREFIX} §cDu kannst dein Bett nicht zerstören§7!",
+	"clanwars.noPlace.spawner": "{PREFIX} §cDu kannst hier keine Blöcke platzieren§7!",
+	"clanwars.team.setSpawn": "{PREFIX} §cDu hast das Team #0#§c erstellt§7!\n§8(§cNächstes§7: #1# §8)",
+	"clanwars.player.rejoined": "{PREFIX} §7Der Spieler §2#0# §7ist den §eClanWars§7 wieder beigetreten!",
+	"clanwars.arena.killed": "{PREFIX} #0##1# §7wurde von #2##3#§7 getötet!",
+	"clanwars.arena.died": "{PREFIX} #0##1# §7ist gestorben!",
+	"clanwars.game.won": "{PREFIX} §aDu hast den §eClanWars §agewonnen§7!",
+	"clanwars.clan.elo.loose": "{PREFIX} §7Dein Clan hat §2#0#§7 elo verloren.",
+	"clanwars.clan.elo.win": "{PREFIX} §7Dein Clan hat §2#0#§7 elo gewonnen.",
+	"clanwar.game.started": "{PREFIX} §aDie runde hat gestartet§7!",
+	"clanwars.game.started.title": "§l§aViel glück§8!",
+	"clanwar.queue.notEnoughPlayers": "{PREFIX} §7Du musst in einer Clan-Party !",
+	"clanwar.queue.notClanLeader": "{PREFIX} §cDu bist nicht der §eClan§7-§eLeader§7!",
+	"clanwar.queue.notInParty": "{PREFIX} §7Du musst in einer Clan-Party sein!",
+	"clanwar.queue.alreadyInClanWar": "{PREFIX} §cDein §eClan§c ist bereits in einen §eClanWar§7!",
+	"clanwar.queue.notInClan": "{PREFIX} §cDu bist in keinen Clan§7!",
+	"clanwar.queue.enemyClanFound": "{PREFIX} §7Ein gegnerischer Clan wurde gefunden!",
+
+	"bedwars.setup.setspawn": "{PREFIX} §cDu hast den Spawn von Team #0#§7 gesetzt!\n§8(§cNächstes§7: #1# §8)",
+	"bedwars.place.spawner": "{PREFIX} §cDu kannst hier keine Blöcke platzieren§7!",
+	"bedwars.break.own.bed": "{PREFIX} §cDu kannst dein eigenes Bett nicht abbauen§7!",
+	"bedwars.team.full": "{PREFIX} §cDas Team§e #0# §cist bereits voll§7!",
+	"bedwars.team.joined": "{PREFIX} §aDu bist den Team§e #0# §abeigetreten§7!",
+	"bedwars.team.cantJoin": "{PREFIX} §cDu kannst den Team§e #0# §cnicht beitreten§7!",
+	"bedwars.arena.killed.by": "{PREFIX} #0# §7wurde von #1#§7 getötet!",
+	"bedwars.arena.killed.custom": "{PREFIX} #0# §7ist gestorben!",
+	"bedwars.menu.team.name": "{PREFIX} §eWechsel dein §bTeam§7!",
+	"bedwars.gold.button.withGold": "§aMit §6Gold§7!",
+	"bedwars.gold.button.withoutGold": "§cOhne §6Gold§7!",
+	"bedwars.itemdrop.button.withDrop": "§aMit §6Item§7-§6Drop§7!",
+	"bedwars.itemdrop.button.withoutDrop": "§cOhne §6Item§7-§6Drop§7!",
+	"bedwars.vote.message.withGold": "{PREFIX} §7Du möchtest mit §6Gold§7 spielen!",
+	"bedwars.vote.message.withoutGold": "{PREFIX} §7Du möchtest ohne §6Gold§7 spielen!",
+	"bedwars.vote.message.withDrop": "{PREFIX} §7Du möchtest mit §6Item§7-§6Drop§7 spielen!",
+	"bedwars.vote.message.withoutDrop": "{PREFIX} §7Du möchtest ohne §6Item§7-§6Drop§7 spielen!",
+	"bedwars.team.autoJoin": "{PREFIX} §7Du bist nun in Team§e #0#§7!",
+	"bedwars.arena.destroyBed": "§7Das Bett von Team #0#§7 wurde von §e#1#§7 zerstört!",
+	"bedawars.arena.bedNotExists": "§cDas Team exestiert nicht§7!\n§cDeshalb wurden dir keine Stats gutgeschrieben§7!",
+	
+	"mlgrush.allArenasFull": "{PREFIX} §cAlle Arenen sind voll§7!\n§cVersuche es später nochmal§7!",
+	"mlgrush.winBlue": "{PREFIX} §aDas Team §1BLAU §ahat gewonnen§7!",
+	"mlgrush.winRed": "{PREFIX} §aDas Team §4ROT §ahat gewonnen§7!",
+	"mlgrush.joinedQueue": "{PREFIX} §aDu hast die §eQueue§a betreten§7!",
+	"mlgrush.leftQueue": "{PREFIX} §cDu hast die §eQueue§c verlassen§7!",
+	"mlgrush.challengedPlayer": "{PREFIX} §aDu hast§r #0# §eherausgefordert§7!",
+	"mlgrush.challengedBy": "{PREFIX} §aDu wurdest von§r #0#§e herausgefordert§7!",
+		
+	"woolbattle.waitingForPlayers": "{PREFIX} §7Warte auf weitere Spieler...",	
+	
+	"cloudsigns.noServer.found": "{PREFIX} §cEs wurde kein Server gefunden§7!",
+	"cloudsigns.server.isOffline": "{PREFIX} §cDieser Server ist aktuell offline§7!",
+	"cloudsigns.server.alreadyIngame": "{PREFIX} §cDiese Runde hat bereits gestartet§7!",
+	"cloudsigns.server.isFull": "{PREFIX} §cDieser Server ist voll§7!"
+	}
+}
