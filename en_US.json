@@ -5,7 +5,7 @@
 
 	"values": {
 
-		"languageapi.message.updated": "§7You selected the §blanguage§6 #0#!",
+		"languageapi.message.updated": "{PREFIX} §7You selected the §blanguage§6 #0#!",
 		"player.not.exists": "§cThis player does not exist!",
 
 		"broadcaster.message.1": "§7Folge uns doch auf §bTwitter§7 unter: §b@CloudVace",
