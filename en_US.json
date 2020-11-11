@@ -5,12 +5,12 @@
 
 	"values": {
 
-		"languageapi.message.updated": "{Prefix} §7You selected the §blanguage§6 #0#!",
-		"player.not.exists": "§cThis player does not exist!",
+		"languageapi.message.updated": "§eLanguage §8| §7You selected the §blanguage§6 #0#!",
+		"player.not.exists": "§bCloud§cVace §8| §cThis player does not exist!",
 
-		"broadcaster.message.1": "§7Folge uns doch auf §bTwitter§7 unter: §b@CloudVace",
-		"broadcaster.message.2": "§7Tritt doch gerne unserem §9Discord §fhttps://discord.gg/xbb3SWN §7bei!",
-		"broadcaster.message.3": "§7Wir suchen §cmomentan noch §cTeammitglieder!",
+		"broadcaster.message.1": "§bCloud§cVace §8| §7Folge uns doch auf §bTwitter§7 unter: §b@CloudVace",
+		"broadcaster.message.2": "§bCloud§cVace §8| §7Tritt doch gerne unserem §9Discord §fhttps://discord.gg/xbb3SWN §7bei!",
+		"broadcaster.message.3": "§bCloud§cVace §8| §7Wir suchen §cmomentan noch §cTeammitglieder!",
 
 		"ui.title.stats": "§6Stats",
 		"ui.title.spectate": "§7Spectate",
@@ -19,7 +19,7 @@
 
 		"ui.button.back": "§cBack",
 
-		"message.cantSelectYourself": "§cYou can't select yourself!",
+		"message.cantSelectYourself": "§bCloud§cVace §8| §cYou can't select yourself!",
 
 		"game.hasWon": "§aYou won this round!",
 		"game.hasLose": "§cYou lost this round!",
@@ -32,14 +32,14 @@
 		"game.server.quit": "§cleft §7this round!",
 		"game.server.isRestarting": "§cThis Server restarts!",
 		"game.server.hasStarted": "§cThis round has already started!",
-		"game.isPrivate": "§7In this round you don't get §ecoins §7and §6statistics!",
+		"game.isPrivate": "§c§lPrivate§r§7-§l§bServer §8| §7In this round you don't get §ecoins §7and §6statistics!",
 
-		"no.perms": "§cYou don't have the permission for this!",
+		"no.perms": "§bCloud§cVace §8| §cYou don't have the permission for this!",
 
-		"lobby.no.perms": "§cYou don't have the permision for this!",
+		"lobby.no.perms": "§bCloud§cVace §8| §cYou don't have the permision for this!",
 
-		"lobby.hide.false": "§cAll §bplayers §care now hidden!",
-		"lobby.hide.true": "§aAll §bplayers §aare now showen!",
+		"lobby.hide.false": "§bCloud§cVace §8| §cAll §bplayers §care now hidden!",
+		"lobby.hide.true": "§bCloud§cVace §8| §aAll §bplayers §aare now showen!",
 
 		"lobby.teleporter.ui.title": "§6Teleporter",
 		"lobby.teleporter.ui.content": "§aChoose §7a §bGame!",
@@ -47,9 +47,9 @@
 		"lobby.item.hide.true": "§aShow Players",
 		"lobby.item.hide.false": "§cHide Players",
 
-		"cloudsigns.noServer.found": "§cCould not find a §bServer!",
-		"cloudsigns.server.isOffline": "§cThis §bServer §cis currently §4offline!",
-		"cloudsigns.server.alreadyIngame": "§cThis round as already started!",
-		"cloudsigns.server.isFull": "§cThis Server is currently full!"
+		"cloudsigns.noServer.found": "§bCloud§cVace §8| §cCould not find a §bServer!",
+		"cloudsigns.server.isOffline": "§bCloud§cVace §8| §cThis §bServer §cis currently §4offline!",
+		"cloudsigns.server.alreadyIngame": "§bCloud§cVace §8| §cThis round as already started!",
+		"cloudsigns.server.isFull": "§bCloud§cVace §8| §cThis Server is currently full!"
 	}
 }
