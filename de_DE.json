@@ -50,6 +50,8 @@
 	"cloudsigns.noServer.found": "§bCloud§cVace §8| §cEs konnten keine §bServer §cgefunden werden!",
 	"cloudsigns.server.isOffline": "§bCloud§cVace §8| §cDieser Server ist aktuell §4offline!",
 	"cloudsigns.server.alreadyIngame": "§bCloud§cVace §8| §cDiese Runde hat bereits gestartet§7!",
-	"cloudsigns.server.isFull": "§bCloud§cVace §8| §cDieser Server ist voll§7!"
+	"cloudsigns.server.isFull": "§bCloud§cVace §8| §cDieser Server ist voll§7!",
+	"privateserver.game.chose": "§bWähle §7einen §cSpielmodus!",
+	"privateserver.option.choose": "§bWähle §7eine §eOption!"
 	}
 }
