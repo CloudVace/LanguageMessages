@@ -52,6 +52,9 @@
 	"cloudsigns.server.alreadyIngame": "§bCloud§cVace §8| §cDiese Runde hat bereits gestartet§7!",
 	"cloudsigns.server.isFull": "§bCloud§cVace §8| §cDieser Server ist voll§7!",
 	"privateserver.game.chose": "§bWähle §7einen §cSpielmodus!",
-	"privateserver.option.choose": "§bWähle §7eine §eOption!"
+	"privateserver.option.choose": "§bWähle §7eine §eOption!",
+	"privateserver.server.offline": "§c§lPrivate§r§7-§b§lServer §r§8| §7Dieser §bServer §7ist momentan §4offline!",
+	"privateserver.server.starting": "§c§lPrivate§r§7-§b§lServer §r§8| §7Der §bServer §7wird §agestartet...",
+	"privateserver.server.transfer": "§c§lPrivate§r§7-§b§lServer §r§87 §7Transfer"
 	}
 }
