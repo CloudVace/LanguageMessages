@@ -55,6 +55,11 @@
 	"privateserver.option.choose": "§bWähle §7eine §eOption!",
 	"privateserver.server.offline": "§c§lPrivate§r§7-§b§lServer §r§8| §7Dieser §bServer §7ist momentan §4offline!",
 	"privateserver.server.starting": "§c§lPrivate§r§7-§b§lServer §r§8| §7Der §bServer §7wird §agestartet...",
-	"privateserver.server.transfer": "§c§lPrivate§r§7-§b§lServer §r§87 §7Transfer"
+	"privateserver.server.transfer": "§c§lPrivate§r§7-§b§lServer §r§87 §7Transfer",
+	"privatserver.server.alreadyonline": "§c§lPrivate§r§7-§b§lServer §r§8| §7Der §bServer §7wurde §cbereits §7online!",
+	"privateserver.server.stopping": "§c§lPrivate§r§7-§b§lServer §r§8| §7Der §bServer §7wird §cheruntergefahren!",
+	"privateserver.server.public": "§c§lPrivate§r§7-§b§lServer §r§8| §7Dein §cPrivate §bServer §7ist nun §bpublic",
+	"privateserver.server.private": "§c§lPrivate§r§7-§b§lServer §r§8| §7Dein §cPrivate §bServer §7ist nun §cprivat!",
+	"privateserver.noperm": "§c§lPrivate§r§7-§b§lServer §r§8| §cDu hast dafür nicht die Permission"
 	}
 }

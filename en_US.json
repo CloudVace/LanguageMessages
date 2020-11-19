@@ -51,10 +51,16 @@
 		"cloudsigns.server.isOffline": "§bCloud§cVace §8| §cThis §bServer §cis currently §4offline!",
 		"cloudsigns.server.alreadyIngame": "§bCloud§cVace §8| §cThis round as already started!",
 		"cloudsigns.server.isFull": "§bCloud§cVace §8| §cThis Server is currently full!",
+		
 		"privateserver.game.chose": "§bChoose §7a §cgame!",
 		"privateserver.option.choose": "§bChoose §7a §eoption!",
 		"privateserver.server.offline": "§c§lPrivate§r§7-§b§lServer §r§8| §7This §bserver §7is currently §4offline!",
 		"privateserver.server.starting": "§c§lPrivate§r§7-§b§lServer §r§8| §7The §bServer §7is §astarting...",
-		"privateserver.server.transfer": "§c§lPrivate§r§7-§b§lServer §r§87 §7Transfer"
+		"privateserver.server.transfer": "§c§lPrivate§r§7-§b§lServer §r§8| §7Transfer",
+		"privatserver.server.alreadyonline": "§c§lPrivate§r§7-§b§lServer §r§8| §7The §bServer §7is §calready §7online!",
+		"privateserver.server.stopping": "§c§lPrivate§r§7-§b§lServer §r§8| §7The §bServer §7is §cstopping!",
+		"privateserver.server.public": "§c§lPrivate§r§7-§b§lServer §r§8| §7Your §cPrivate §bServer §7is now §bpublic!",
+		"privateserver.server.private": "§c§lPrivate§r§7-§b§lServer §r§8| §7Your §cPrivate §bServer §7is now §cprivate!",
+		"privateserver.noperm": "§c§lPrivate§r§7-§b§lServer §r§8| §cYou don't have the permission for this!"
 	}
 }
