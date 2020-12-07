@@ -43,7 +43,7 @@
 
 		"lobby.teleporter.ui.title": "§6Teleporter",
 		"lobby.teleporter.ui.content": "§aChoose §7a §bGame!",
-
+		"lobby.switch.transfer": "§bCloud§cVace §8| §7Transfer to other §bLobby Server§7...",
 		"lobby.item.hide.true": "§aShow Players",
 		"lobby.item.hide.false": "§cHide Players",
 
