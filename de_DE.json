@@ -37,7 +37,7 @@
 	"no.perms": "§bCloud§cVace §8| §cDu hast keine Berechtigung um dies zu tun§7!",
 	
 	"lobby.no.perms": "§bCloud§cVace §8| §cDu hast keine Berechtigung um dies zu tun§7!",
-	
+	"lobby.switch.transfer": "§bCloud§cVace §8| §7Transfer auf einen anderen §bLobby Server§7...",
 	"lobby.hide.false": "§bCloud§cVace §8| §cAlle §bSpieler§c sind nun unsichtbar!",
 	"lobby.hide.true": "§bCloud§cVace §8| §aAlle §bSpieler§a sind nun sichtbar!",
 	
