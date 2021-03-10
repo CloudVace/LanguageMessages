@@ -10,6 +10,7 @@
 	"test.message": "das ist eine test nachricht",
 		
 	"lobby.welcome.message": "§bCloud§cVace §8| §aWillkommen zur §bCloud§cVace §bv3!",
+	"beta.message.noStatsandCoinsSaving", "§bCloud§cVace §8| §cCoins und Stats werden nicht gespeichert!",
 		
 	"broadcaster.message.1": "§bCloud§cVace §8| §7Folge uns doch auf §bTwitter§7 unter: §b@CloudVace§r",
 	"broadcaster.message.2": "§bCloud§cVace §8| §7Trete doch unseren Discord unter §ehttps://discord.gg/xbb3SWN §7bei!",
