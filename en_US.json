@@ -10,6 +10,7 @@
 		"test.message": "this is a test message",
 
 		"lobby.welcome.message": "§bCloud§cVace §8| §aWelcome to §bCloud§cVace §bv3!",
+		"lobby.message.fly": "§bLobby §8| §bFlymode §aenabled!",
 		"beta.message.noStatsandCoinsSaving": "§bCloud§cVace §8| §cStats and Coins saving is disabled",
 		
 		"broadcaster.message.1": "§bCloud§cVace §8| §7Folge uns doch auf §bTwitter§7 unter: §b@CloudVace",
