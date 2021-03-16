@@ -26,7 +26,7 @@
 		"coinssystem.message.importcomplete": "§eCoinSystem §8| §aYour §ecoins §awere sucsessfully imported!",
 		"coinssystem.message.importnotpossible": "§eCoinSystem §8| §cCan't import your §ecoins! Coins §calready imported or no data found.",
 		
-		"reportsystem.message.reportsucsess": "§4BanSystem §8| §aDu hast den Spieler§6 #0# §aerfolgreich für§c #1# §areportet!",
+		"reportsystem.message.reportsucsess": "§4BanSystem §8| §aYou sucsessfully reported§6 #0# §afor§c #1#!",
 		
 		"broadcaster.message.1": "§bCloud§cVace §8| §7Folge uns doch auf §bTwitter§7 unter: §b@CloudVace",
 		"broadcaster.message.2": "§bCloud§cVace §8| §7Tritt doch gerne unserem §9Discord §fhttps://discord.gg/xbb3SWN §7bei!",
