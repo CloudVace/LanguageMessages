@@ -16,6 +16,16 @@
 	"beta.command.message": "§bSystem §8| §7Du hast den §cBeta §bStatus §7zu§6 #0# §7geändert!",
 	"beta.message.noStatsandCoinsSaving": "§bCloud§cVace §8| §cCoins und Stats werden nicht gespeichert!",
 		
+	"coinssystem.message.help.header": "§eCoinSystem §8| §7Commands für das §eCoinSystem",
+	"coinssystem.message.help1": "§e/coins help",
+	"coinssystem.message.help2": "§e/coins §7/ §e/coins <spieler> §7- Zeigt die Coins von dir oder einem spezifischen Spieler",
+	"coinssystem.message.help3": "§e/coins import §7- Importiert alle §eCoins §7aus der §bCloud§cVace §bv2",
+	"coinssystem.message.noperm": "§eCoinSystem §8| §cDu hast nicht die Berechtigung diese Funktion zu verwenden!",
+	"coinssystem.message.addcoins": "§eCoinSystem §8| §a+§6 #0# §eCoins",
+	"coinssystem.message.importingcoins": "§eCoinSystem §8| §7Deine §eCoins §7werden aus der §bv2 §7importiert.",
+	"coinssystem.message.importcomplete": "§eCoinSystem §8| §aDeine §eCoins §awurden erfolgreich importiert!",
+	"coinssystem.message.importnotpossible": "§eCoinSystem §8| §cEs können keine §eCoins §cimportiert werden! Die §eCoins §cwurden bereits importiert oder es sind keine bisherigen Daten vorhanden.",
+		
 	"broadcaster.message.1": "§bCloud§cVace §8| §7Folge uns doch auf §bTwitter§7 unter: §b@CloudVace§r",
 	"broadcaster.message.2": "§bCloud§cVace §8| §7Trete doch unseren Discord unter §ehttps://discord.gg/xbb3SWN §7bei!",
 	"broadcaster.message.3": "§bCloud§cVace §8| §7Es wird empfohlen mit der §eKlassischen§7-§eUI §7zu Spielen!",
