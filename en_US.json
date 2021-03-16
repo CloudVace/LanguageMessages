@@ -23,7 +23,7 @@
 		"coinssystem.message.noperm": "§eCoinSystem §8| §cYou don't have the permission to use this function!",
 		"coinssystem.message.addcoins": "§eCoinSystem §8| §a+§6 #0# §eCoins",
 		"coinssystem.message.importingcoins": "§eCoinSystem §8| §7Importing your §ecoins §7from §bCloud§cVace §bv2.",
-		"coinssystem.message.importcomplete": "§eCoinSystem §8| §aYou §ecoins §awere sucsessfully imported!",
+		"coinssystem.message.importcomplete": "§eCoinSystem §8| §aYour §ecoins §awere sucsessfully imported!",
 		"coinssystem.message.importnotpossible": "§eCoinSystem §8| §cCan't import your §ecoins! Coins §calready imported or no data found.",
 		
 		"broadcaster.message.1": "§bCloud§cVace §8| §7Folge uns doch auf §bTwitter§7 unter: §b@CloudVace",
