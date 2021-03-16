@@ -16,6 +16,16 @@
 		"beta.command.message": "§bSystem §8| §7You changed the §cbeta §bstatus §7to§6 #0#!",
 		"beta.message.noStatsandCoinsSaving": "§bCloud§cVace §8| §cStats and Coins saving is disabled",
 		
+		"coinssystem.message.help.header": "§eCoinSystem §8| §7Commands for the §eCoinSystem",
+		"coinssystem.message.help1": "§e/coins help",
+		"coinssystem.message.help2": "§e/coins §7/ §e/coins <player> §7- Shows your §ecoins §7or of a specific player",
+		"coinssystem.message.help3": "§e/coins import §7- Imports your §ecoins from §bCloud§cVace §bv2",
+		"coinssystem.message.noperm": "§eCoinSystem §8| §cYou don't have the permission to use this function!",
+		"coinssystem.message.addcoins": "§eCoinSystem §8| §a+§6 #0# §eCoins",
+		"coinssystem.message.importingcoins": "§eCoinSystem §8| §7Importing your §ecoins §7from §bCloud§cVace §bv2.",
+		"coinssystem.message.importcomplete": "§eCoinSystem §8| §aYou §ecoins §awere sucsessfully imported!",
+		"coinssystem.message.importnotpossible": "§eCoinSystem §8| §cCan't import your §ecoins! Coins §calready imported or no data found.",
+		
 		"broadcaster.message.1": "§bCloud§cVace §8| §7Folge uns doch auf §bTwitter§7 unter: §b@CloudVace",
 		"broadcaster.message.2": "§bCloud§cVace §8| §7Tritt doch gerne unserem §9Discord §fhttps://discord.gg/xbb3SWN §7bei!",
 		"broadcaster.message.3": "§bCloud§cVace §8| §7Wir suchen §cmomentan noch §cTeammitglieder!",
