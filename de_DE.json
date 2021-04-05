@@ -28,7 +28,8 @@
 		
 	"reportsystem.message.reportsucsess": "§4BanSystem §8| §aDu hast den Spieler§6 #0# §aerfolgreich für§c #1# §areportet!",
 		
-	"ranksystem.message.reloadcomplete": "§cRankSystem §8| §aErfolgreich neugeladen!",
+	"ranksystem.no.perms": "§cRankSystem §8| §cDu hast keine Berechtigung diese Funktion zu verwenden!",
+	"ranksystem.message.reloadcomplete": "§cRankSystem §8| §aErfolgreich neugeladen.",
 	"ranksystem.message.playernotfound": "§cRankSystem §8| §cDer Spieler konnte nicht gefunden werden!",
 	"ranksystem.message.setrank": "§cRankSystem §8| §7Du hast den Rang von§6 #0# §7zu§6 #1# §ageändert!",
 	"ranksystem.message.nownicked": "§5NickSystem §8| §7Du wurdest als§6 #0# §7genickt!",
