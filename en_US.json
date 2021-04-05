@@ -28,6 +28,7 @@
 		
 		"reportsystem.message.reportsucsess": "§4BanSystem §8| §aYou sucsessfully reported§6 #0# §afor§c #1#!",
 		
+		"ranksystem.message.playernotfound": "§cRankSystem §8| §cPlayer not found!",
 		"ranksystem.message.setrank": "§cRankSystem §8| §7You §achanged §7the rank of§6 #0# §7to§6 #1#!",
 		"ranksystem.message.nownicked": "§5NickSystem §8| §7You are now nicked as§6 #0#!!",
 		"ranksystem.message.unnicked": "§5NickSystem §8| §cYour nickname has been removed!",
