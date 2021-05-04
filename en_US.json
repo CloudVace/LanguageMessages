@@ -26,6 +26,8 @@
 		"coinssystem.message.importcomplete": "§eCoinSystem §8| §aYour §ecoins §awere sucsessfully imported!",
 		"coinssystem.message.importnotpossible": "§eCoinSystem §8| §cCan't import your §ecoins! Coins §calready imported or no data found.",
 		
+		"verify.message.codegenerated": "§aVerify §8| §aYour Verify §bCode §awas generated!",
+		
 		"reportsystem.message.reportsucsess": "§4BanSystem §8| §aYou sucsessfully reported§6 #0# §afor§c #1#!",
 		
 		"ranksystem.no.perms": "§cRankSystem §8| §cYou don't have the permission to use this function!",
