@@ -50,6 +50,20 @@
 
 		"message.cantSelectYourself": "§bCloud§cVace §8| §cYou can't select yourself!",
 
+		"knockffa.message.boughtsnowballsgadget": "§6Knock§cFFA §8| §7You bought the §bSnowball §7Gadget!",
+		"knockffa.message.boughtspeedboostgadget": "§6Knock§cFFA §8| §7You bought the §bSpeedboost §7Gadget!",
+		"knockffa.message.boughtrescueplatformgadget": "§6Knock§cFFA §8| §7You bought the §bRettungsplatform §7Gadget!",
+		"knockffa.message.boughtswitchergadget": "§6Knock§cFFA §8| §7You bought the §bSwitcher §7Gadget!",
+		"knockffa.message.notenoughgamecoins": "§6Knock§cFFA §8| §cYou don't have enough Gamecoins!",
+		"knockffa.message.sortinventoryfailed": "§6Knock§cFFA §8| §cYour Inventory could not be saved!",
+		"knockffa.message.inventorysaved": "§6Knock§cFFA §8| §7Your Inventory has been saved!",
+		"knockffa.message.playerhaskillstreak": "§6Knock§cFFA §8|§6 #0# §7has a§6 #1# §cKillstreak!",
+		"knockffa.message.killedby": "§6Knock§cFFA §8| §7You got killed by§r #0#!",
+		"knockffa.message.killed": "§6Knock§cFFA §8| §7You §akilled§r #0#!",
+		"knockffa.message.mapchanged": "§6Knock§cFFA §8| §7The §emap §7was changed!",
+		"knockffa.message.mapchangeinMinutes": "§6Knock§cFFA §8| §7The map will be changed in§b #0# §7minutes!",
+		"knockffa.message.mapchangeinseconds": "§6Knock§cFFA §8| §7The map will be changed inn§b #0# §7Seconds!",
+		
 		"game.hasWon": "§aYou won this round!",
 		"game.hasLose": "§cYou lost this round!",
 		"game.server.isFull": "§cThis server is currently full!",
