@@ -12,6 +12,8 @@
 		"lobby.welcome.message": "§bCloud§cVace §8| §aWelcome to §bCloud§cVace §bv3!",
 		"lobby.message.fly": "§bLobby §8| §bFlymode §aenabled!",
 		"lobby.updatelog.message": "§bSystem §8| §7You can find the latest changes on our §9Discord §7in §b#updates!",
+		"lobby.message.autonick.activated": "§bSystem §8| §7You §aactivated §dautonick.",
+		"lobby.message.autonick.deactivated": "§bSystem §8| §7You §cdeactivated §dautonick.",
 		
 		"beta.command.message": "§bSystem §8| §7You changed the §cbeta §bstatus §7to§6 #0#!",
 		"beta.message.noStatsandCoinsSaving": "§bCloud§cVace §8| §cStats and Coins saving is disabled",
